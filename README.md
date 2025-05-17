@@ -1,6 +1,15 @@
 <h1 align="center">😊 Facial Emotion Recognition</h1>
 
-A cutting-edge, real-time facial emotion recognition application that leverages the power of **facial_emotion_recognition** and **OpenCV** to bring your webcam feed to life. Instantly detect and visualize a wide range of human emotions with high accuracy — perfect for enhancing interactive apps, improving user engagement, or exploring the fascinating world of human expressions. Fast, lightweight, and easy to use, this tool turns emotion detection into an effortless experience!
+<div align="center">
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Library-OpenCV-5C9E31?logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Contribute-Yes-orange?logo=github&logoColor=white" alt="Contributions Welcome" />
+  <img src="https://img.shields.io/badge/License-MIT-green?logo=mit&logoColor=white" alt="License" />
+</div>
+
+## 🎯 About the Project
+
+A cutting-edge, real-time facial emotion recognition app using **facial_emotion_recognition** and **OpenCV** that accurately detects and visualizes human emotions from your webcam feed for enhanced interactivity and engagement. Fast, lightweight, and easy to use, this tool makes emotion detection effortless and accessible.
 
 ---
 
